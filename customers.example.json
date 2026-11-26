@@ -1,0 +1,11 @@
+{
+  "<customer_id>": {
+    "tenant_id": "00000000-0000-0000-0000-000000000000",
+    "client_id_env": "<CUSTOMER_ID>_CLIENT_ID",
+    "client_secret_env": "<CUSTOMER_ID>_CLIENT_SECRET",
+    "subscription_id": "00000000-0000-0000-0000-000000000000",
+    "resource_group": "xx_xx_xxxx",
+    "workspace_name": "xx_xx_xxxx",
+    "workspace_id": "00000000-0000-0000-0000-000000000000"
+  }
+}
